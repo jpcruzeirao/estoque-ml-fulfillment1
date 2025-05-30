@@ -20,3 +20,4 @@ python-dotenv
 # Ferramentas de desenvolvimento (opcional, mas recomendado)
 # pylint
 # pytest
+gunicorn==21.2.0
